@@ -55,5 +55,7 @@ Vehicle speed formula:  Vehicle Speed (km/h) = (Motor RPM x Wheel Radius) / (2.6
 
 This Excel file contains detailed motor, gear, and battery calculations for the Santro EV. You can tweak the values such as RPM, gear ratios, wheel size, and battery specifications to see how the torque, top speed, efficiency, and range change.
 
-[Download Excel file](Santro_EV_Motor_Battery_Analysis.xlsx)
+[Download Excel file](
+
+https://github.com/simardmg/EV-Conversions-and-Projects/raw/0b3b12d9b51a0ec0a6e7a1b146b34c01085e2094/Santro_EV_Motor_Battery_Analysis_Advanced.xlsx)
 
